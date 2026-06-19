@@ -71,7 +71,7 @@ int main() {
         cin >> opcion;
         opcion = toupper(opcion);
         
-    } while (opcion == 'S' || opcion == 's');
+    } while (opcion == 'S');
     
     return 0;
 }
